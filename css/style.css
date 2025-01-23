@@ -1,0 +1,48 @@
+body{
+    background-color: chartreuse;
+    margin: 20px;
+    padding: 50px;
+}
+.carousel-inner {
+         width: 450px;
+         height: 600px;
+}
+.carousel-item img{
+         width: 600px;
+         height: 800px;
+}
+.one {
+    background-color: #0d6efd;
+    height: 70vh;
+}
+.two{
+    background-color: #198754;
+    height: 70vh;
+}
+.three{
+    background-color: #842029;
+    height: 70vh;
+}
+.four{
+    background-color: chartreuse;
+    height: 70vh;
+}
+.king img {
+    height:70vh;
+    width:100%;
+}
+.bitch img{
+    height: 70vh;
+    width: 500%;
+
+}
+.witch img {
+    height: 70vh;
+    width: 600%;
+
+}
+.woman img{
+    height: 70vh;
+    width: 200%;
+
+}
